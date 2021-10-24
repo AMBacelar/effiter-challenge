@@ -1,0 +1,20 @@
+{
+  "name": "efitter-challenge",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "a simple coding challenge to ensure that applicants have the basic ability to add a new brand onto the effiter platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "challenge"
+  ],
+  "author": "efitter",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.15.4",
+    "jest": "^27.3.1"
+  }
+}
